@@ -1,0 +1,1 @@
+# MOD13Q1_series_mean
